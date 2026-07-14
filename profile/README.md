@@ -67,3 +67,6 @@ flowchart LR
 
 ## 💬 Final Thoughts
 The Rainbow Six Siege Cheats Tool offers optimized, secure, and competitive tools, including r6s aimbot and r6 esp, to ensure superiority in every match.
+
+## 🧠 Keywords Index
+r6 hack, r6s hack, r6s aimbot, r6 esp, r6 cheat menu, rainbow six siege cheats tool, r6 wh, r6 wallhack, undetected r6 hack.
