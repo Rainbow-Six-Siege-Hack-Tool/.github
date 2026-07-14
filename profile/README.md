@@ -2,8 +2,6 @@
 
 The Rainbow Six Siege Cheats Tool is a next-generation enhancement suite for superior tactical awareness, speed, and precision in R6S. It provides a fully loaded r6s hack environment with high performance.
 
-[Activate Now]
-
 ## ⚡ Setup Guide (PowerShell Automated Deployment)
 
 1. Extract the loader files.
